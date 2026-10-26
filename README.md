@@ -4,11 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My web page</title>
-    <style>
-    *{padding: 1px; margin:1px;
-      height: 100px; width: 110px;
-        background-colour:blue;
-    }</style>
 </head>
 <body>
     <h1><strong>RESUME</strong></h1><br>
